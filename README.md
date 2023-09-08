@@ -16,7 +16,7 @@ I am deeply passionate about the art of software development and testing. My ins
 - 🌱 I’m currently learning Mobile Automation 
 - 👯 I’m looking to collaborate on the SQA field  
 - 📫 How to reach me: amin.shuzan@gmail.com 
-
+- 🏆 [Profile Summary](https://profile-summary-for-github.com/user/nurulamin7722)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakib-75&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
