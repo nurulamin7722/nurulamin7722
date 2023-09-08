@@ -1,7 +1,21 @@
 ### Hi there 👋, I'm Md. Nurul Amin
 
+## Skils
+### Software Testing
+Manual Testing | API Testing | Agile | JIRA | jMeter
+### Programming language:
+C | C++ | JAVA
+### Database
+MySQL
+
+
+## About me
+
 I am deeply passionate about the art of software development and testing. My insatiable thirst for knowledge drives me to continually explore new horizons and seek out tasks that push the boundaries of my skills. I possess a remarkable ability to swiftly absorb new information and concepts, making me an invaluable asset to any team. When it comes to teamwork, I'm not just a contributor; I'm a reliable force that ensures projects are not only completed but done so with excellence.
 
+- 🌱 I’m currently learning Mobile Automation 
+- 👯 I’m looking to collaborate on the SQA field  
+- 📫 How to reach me: amin.shuzan@gmail.com 
 
 
 ## 📊 GitHub Stats:
