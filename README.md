@@ -19,6 +19,6 @@ I am deeply passionate about the art of software development and testing. My ins
 - 🏆 [Profile Summary](https://profile-summary-for-github.com/user/nurulamin7722)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakib-75&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-75&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-75&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nurulamin7722&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nurulamin7722&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulamin7722&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
