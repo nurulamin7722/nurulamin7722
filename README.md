@@ -2,9 +2,9 @@
 
 ## Skils
 ### Software Testing
-Manual Testing | API Testing | Agile | JIRA | jMeter
+Manual Testing | API Testing | Automation | Agile | JIRA | JMeter 
 ### Programming language:
-C | C++ | JAVA
+Python | JAVA | C | C++
 ### Database
 MySQL
 
