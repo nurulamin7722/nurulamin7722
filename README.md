@@ -6,7 +6,7 @@ Manual Testing | API Testing | Automation | Agile | JIRA | JMeter
 ### Programming language:
 Python | JAVA | C | C++
 ### Database
-MySQL
+MySQL | Postgres
 
 
 ## About me
