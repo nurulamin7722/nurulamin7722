@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Md. Nurul Amin
 
 ## Skils
-### Software Testing
+### Technical Project Manager & Software Testing
 Manual Testing | API Testing | Automation | Agile | JIRA | JMeter 
 ### Programming language:
 Python | JAVA | C | C++
