@@ -144,22 +144,12 @@
       position: relative;
       background: #0b0f19; /* black-ish */
       color: var(--text);
-      border: 1px solid rgba(148,163,184,.18); /* base subtle border under animation */
+      border: 1px solid var(--border);
       border-radius: 999px;
       overflow: hidden; /* clip animated border corners */
       isolation: isolate; /* ensure pseudo is scoped */
     }
-    .btn::before {
-      content: "";
-      position: absolute; inset: 0; border-radius: inherit; padding: 1.5px; /* border thickness */
-      background: conic-gradient(from var(--a), var(--brand), var(--brand-2), var(--accent), var(--brand-2), var(--brand));
-      -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
-      -webkit-mask-composite: xor; /* Safari */
-      mask-composite: exclude;      /* Others */
-      animation: btn-rotate 6s linear infinite;
-      pointer-events: none;
-    }
-    @keyframes btn-rotate { to { --a: 360deg; } }
+    .btn::before { display: none !important; content: none !important; animation: none !important; }
     .btn-primary { background: #0b0f19; border-color: rgba(148,163,184,.18); box-shadow: 0 6px 18px rgba(0,0,0,.35); }
     .btn:hover { transform: translateY(-1px); border-color: var(--brand); }
     .btn:focus-visible { outline: none; box-shadow: 0 0 0 3px var(--ring), 0 6px 18px rgba(0,0,0,.35); }
